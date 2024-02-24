@@ -1,0 +1,48 @@
+{
+  "name": "@thenhthang/teaprotocal-nodesrunner",
+  "version": "0.0.10",
+  "description": "Tea protocol testnet by NodesRunner",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thenhthang/teatestnetnodesrunner.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "dialog",
+    "pop-up",
+    "popup",
+    "modal",
+    "color",
+    "picker"
+  ],
+  "author": {
+    "name": "NodesRunner",
+    "email": "vinnodes@gmail.com",
+    "url": "https://vinnodes.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thenhthang/teatestnetnodesrunner/issues"
+  },
+  "homepage": "https://github.com/thenhthang/teatestnetnodesrunner#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react-native-slider": "^0.11.0",
+    "tinycolor2": "^1.4.1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "name": "@thenhthang/teaprotocal-nodesrunner",
+  "name": "@thenhthang/react-native-colorpicker",
   "version": "0.0.10",
-  "description": "Tea protocol testnet by NodesRunner",
+  "description": "Color components for React Native. JavaScript-only, for iOS and Android.",
   "main": "src/index.js",
   "files": [
     "src/"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thenhthang/teatestnetnodesrunner.git"
+    "url": "https://github.com/thenhthang/react-native-colorpicker.git"
   },
   "keywords": [
     "react-native",
@@ -27,15 +27,14 @@
     "picker"
   ],
   "author": {
-    "name": "NodesRunner",
-    "email": "vinnodes@gmail.com",
-    "url": "https://vinnodes.com"
+    "name": "ThenhThang",
+    "email": "quocntrivn@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thenhthang/teatestnetnodesrunner/issues"
+    "url": "https://github.com/thenhthang/react-native-colorpicker/issues"
   },
-  "homepage": "https://github.com/thenhthang/teatestnetnodesrunner#readme",
+  "homepage": "https://github.com/thenhthang/react-native-colorpicker#readme",
   "dependencies": {
     "prop-types": "^15.6.0",
     "react-native-slider": "^0.11.0",

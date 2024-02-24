@@ -53,4 +53,4 @@ Or, if you use npm, `npm i --save react-native-color`.
 
 ## Contact
 
-[Tweet me @hectahertz](https://twitter.com/hectahertz)
+[Tweet me @wolfgangadm](https://twitter.com/wolfgangadm)

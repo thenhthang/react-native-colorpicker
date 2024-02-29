@@ -1,6 +1,6 @@
 {
   "name": "@thenhthang/react-native-colorpicker",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Color components for React Native. JavaScript-only, for iOS and Android.",
   "main": "src/index.js",
   "files": [

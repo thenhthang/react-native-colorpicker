@@ -1,6 +1,6 @@
 {
   "name": "@thenhthang/react-native-colorpicker",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Color components for React Native. JavaScript-only, for iOS and Android.",
   "main": "src/index.js",
   "files": [
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thenhthang/react-native-colorpicker.git"
+    "url": "https://github.com/thenhthang/react-native-colorpicker"
   },
   "keywords": [
     "react-native",

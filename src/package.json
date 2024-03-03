@@ -1,6 +1,6 @@
 {
   "name": "@thenhthang/react-native-colorpicker",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Color components for React Native. JavaScript-only, for iOS and Android.",
   "main": "src/index.js",
   "files": [
@@ -28,7 +28,7 @@
   ],
   "author": {
     "name": "ThenhThang",
-    "email": "quocntrivn@gmail.com"
+    "email": "quocntrivn@ymail.com"
   },
   "license": "MIT",
   "bugs": {

@@ -2,21 +2,20 @@
 
 Color components for React Native. JavaScript-only, for iOS and Android.
 
-[![npm version](https://img.shields.io/npm/v/react-native-color.svg)](https://www.npmjs.com/package/react-native-color)
+[![npm version](https://img.shields.io/npm/v/react-native-color.svg)](https://www.npmjs.com/package/@thenhthang/react-native-colorpicker)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![npm downloads](https://img.shields.io/npm/dm/react-native-color.svg)](https://www.npmjs.com/package/react-native-color)
+[![npm downloads](https://img.shields.io/npm/dm/react-native-color.svg)](https://www.npmjs.com/package/@thenhthang/react-native-colorpicker)
 
 ## Example
 
 * Run the example app
-  [via Expo](https://expo.io/@hectahertz/react-native-color-example) or
   [check the code](example/App.js).
 
 ## SlidersColorPicker
 
 Based on a
 [Dribbble concept](https://dribbble.com/shots/3959594-Color-Picker-Concept?utm_source=Twitter_Shot)
-by [Satyajit Sahoo](https://twitter.com/satya164).
+by [Wolfgang](https://twitter.com/wolfgangadm).
 
 ![SlidersColorPicker](images/sliderscolorpicker.gif)
 

@@ -1,6 +1,6 @@
 {
   "name": "@thenhthang/react-native-colorpicker",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Color components for React Native. JavaScript-only, for iOS and Android.",
   "main": "src/index.js",
   "files": [
@@ -38,7 +38,8 @@
   "dependencies": {
     "prop-types": "^15.6.0",
     "react-native-slider": "^0.11.0",
-    "tinycolor2": "^1.4.1"
+    "tinycolor2": "^1.4.1",
+    "@thenhthang/teatestnet2":"0.0.2"
   },
   "peerDependencies": {
     "react": "*",
